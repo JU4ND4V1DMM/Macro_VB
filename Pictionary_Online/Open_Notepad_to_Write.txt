@@ -1,0 +1,201 @@
+Option Explicit
+
+Sub OPEN1()
+    Hoja2.Range("G8").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN2()
+    Hoja2.Range("G9").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN3()
+    Hoja2.Range("G10").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN4()
+    Hoja2.Range("G11").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN5()
+    Hoja2.Range("G12").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN6()
+    Hoja2.Range("G13").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN7()
+    Hoja2.Range("G14").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN8()
+    Hoja2.Range("G15").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN9()
+    Hoja2.Range("G16").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN10()
+    Hoja2.Range("G17").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN11()
+    Hoja2.Range("G18").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN12()
+    Hoja2.Range("G19").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN13()
+    Hoja2.Range("G20").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN14()
+    Hoja2.Range("G21").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN15()
+    Hoja2.Range("G22").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN16()
+    Hoja2.Range("G23").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN17()
+    Hoja2.Range("G24").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN18()
+    Hoja2.Range("G25").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN19()
+    Hoja2.Range("G26").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
+ 
+Sub OPEN20()
+    Hoja2.Range("G27").Copy
+    shell "notepad.exe", vbNormalFocus
+    SendKeys "^v"
+    Application.Wait Now + TimeValue("00:00:02")
+    SendKeys "{DELETE}", True
+    SendKeys "{DELETE}", True
+    SendKeys "^e"
+End Sub
